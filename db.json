@@ -168,19 +168,6 @@
         "type": "audio/x-m4a",
         "duration": 3548
       }
-    },
-    {
-      "id": "statamic-3-and-tailwind-CSS-2",      
-      "title": "Statamic 3.0 and Tailwind CSS 2.0",
-      "members": "Adam Wathan and Jack McDade",
-      "published_at": "2020-08-20",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9M4BrVwjAO9HM8h1tNhWJ0iOah_ERztSZKs8D2DrxSexPFs",
-      "description": "<p>Adam and Jack talk about the new Statamic 3.0 and more About Tailwind 2!</p>",
-      "file": {
-        "url": "https://media.transistor.fm/84d25024/7630050a.mp3",
-        "type": "audio/x-m4a",
-        "duration": 4530
-      }
     }
   ]
 }
