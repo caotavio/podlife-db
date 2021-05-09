@@ -27,16 +27,16 @@
       }
     },
     {
-      "id": "hasty-treat-git-rebase-explained",      
-      "title": "Hasty Treat - Git Rebase Explained",
-      "members": "Scott Tolinski and Wes Bos",
-      "published_at": "2021-04-26",
-      "thumbnail": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
-      "description": "<p>In this Hasty Treat, Scott and Wes talk about Git Rebase — what it is and how and when to use it!</p>\n",
+      "id": "practical-microservices-with-ethan-garofolo",      
+      "title": "Practical Microservices with Ethan Garofolo",
+      "members": "Aimee Knight, AJ O'Neal, Steve Edwards, Ethan Garofolo",
+      "published_at": "2021-03-13",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzxlsylkvbs2plopS-Vju8X2-WgMjj-sM_sROoUIDxH4aj9MW6",
+      "description": "<p>Ethan Garofolo is the author of Practical Microservices with Pragmatic Programmers. He starts out debunking the ideas behind pulling parts of a monolith into a different services and change function calls into HTTP calls. Instead, it's an approach that keeps things moving for development teams that solves several productivity issues. He breaks down the ways to move functionality around and which approaches make sense for breaking your application up into pieces that are easy to work on and approachable for multiple teams.</p>",
       "file": {
-        "url": "https://traffic.libsyn.com/secure/syntax/Syntax347.mp3?dest-id=532671",
+        "url": "https://media.devchat.tv/js-jabber/JSJ_479_Ethan_Garofolo.mp3",
         "type": "audio/x-m4a",
-        "duration": 986
+        "duration": 4650
       }
     },
     {
@@ -95,7 +95,7 @@
       "id": "building-side-projects-served-with-a-tasty-sidecar",      
       "title": "Building side projects - Served with a tasty Sidecar",
       "members": "Ryan Burgess, Jem Young, Shirley Wu",
-      "published_at": "2021-01-17",
+      "published_at": "2021-04-26",
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnRjqQmtVgr-9s1jGvqw8ZCSDM4oZwh0r1DLQDK5AVmljvjHhd",
       "description": "<p>In this episode, we are joined by Evan Payne to talk with us about how we each approach side projects. Evan also shares a side project he’s built in Angular.</p>",
       "file": {
@@ -144,16 +144,16 @@
       }
     },
     {
-      "id": "specialize-or-bounce-around",      
-      "title": "Specialize or Bounce Around?",
-      "members": "Allen Underwood, Michael Outlaw, Joe Zack",
-      "published_at": "2021-02-28",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHZlxmt4pe3kZtc6PzMk2sXPtXngEI9zZ5WqEuyE4j4YgugZY",
-      "description": "<p>It’s been a minute since we last gathered around the water cooler, as Allen starts an impression contest, Joe wins said contest, and Michael earned a participation award.</p>",
+      "id": "devOps-for-the-javaScript-developer",      
+      "title": "DevOps for the JavaScript Developer",
+      "members": "Aimee Knight, AJ O'Neal, Dan Shappir",
+      "published_at": "2021-03-16",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzxlsylkvbs2plopS-Vju8X2-WgMjj-sM_sROoUIDxH4aj9MW6",
+      "description": "<p>In recent years the term DevOps has become ubiquitous - you'll find DevOps engineers in most every tech organization. But what does DevOps actually mean, and how does it differ from previously existing System and Network engineering and DBAs? In this episode our own Aimee Knight, who is currently expanding her role into DevOps, answers these questions, and provide further information about it.</p>",
       "file": {
-        "url": "http://media.blubrry.com/codingblocks/www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/codingblocks/coding-blocks-episode-153.mp3",
+        "url": "https://media.devchat.tv/js-jabber/JSJ_475_DevOps_for_the_JavaScript_developer.mp3",
         "type": "audio/x-m4a",
-        "duration": 7405
+        "duration": 3979
       }
     },
     {
