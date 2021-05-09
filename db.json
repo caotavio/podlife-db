@@ -1,7 +1,7 @@
 {
   "episodes": [
     {
-      "id": "typescript-fundamentals-getting-a-bit-deeper",      
+      "id": "typescript-fundamentals-getting-a-bit-deeper",
       "title": "TypeScript Fundamentals — Getting a Bit Deeper",
       "members": "Scott Tolinski and Wes Bos",
       "published_at": "2021-04-28",
@@ -14,7 +14,7 @@
       }
     },
     {
-      "id": "software-estimating-two-finger-pour",      
+      "id": "software-estimating-two-finger-pour",
       "title": "Software estimating - two finger pour",
       "members": "Ryan Burgess, Augustus Yuan, Stacy London, Shirley Wu",
       "published_at": "2021-03-14",
@@ -27,7 +27,7 @@
       }
     },
     {
-      "id": "practical-microservices-with-ethan-garofolo",      
+      "id": "practical-microservices-with-ethan-garofolo",
       "title": "Practical Microservices with Ethan Garofolo",
       "members": "Aimee Knight, AJ O'Neal, Steve Edwards, Ethan Garofolo",
       "published_at": "2021-03-13",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "selling-and-shipping-t-shirts-with-typeScript",      
+      "id": "selling-and-shipping-t-shirts-with-typeScript",
       "title": "Selling and Shipping T-Shirts with TypeScript",
       "members": "Scott Tolinski and Wes Bos",
       "published_at": "2021-04-21",
@@ -53,7 +53,7 @@
       }
     },
     {
-      "id": "react-query-more-react-with-tanner-linsley",      
+      "id": "react-query-more-react-with-tanner-linsley",
       "title": "React Query + More React with Tanner Linsley",
       "members": "Scott Tolinski and Wes Bos",
       "published_at": "2021-02-24",
@@ -66,20 +66,20 @@
       }
     },
     {
-      "id": "typeScript-fundamentals",      
-      "title": "TypeScript Fundamentals",
-      "members": "Scott Tolinski and Wes Bos",
-      "published_at": "2021-02-03",
-      "thumbnail": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
-      "description": "<p>In this episode of Syntax, Scott and Wes talk about TypeScript fundamentals — what it is, how you use it, why people love it so much, and more!</p>",
+      "id": "devOps-for-the-javaScript-developer",      
+      "title": "DevOps for the JavaScript Developer",
+      "members": "Aimee Knight, AJ O'Neal, Dan Shappir",
+      "published_at": "2021-03-16",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzxlsylkvbs2plopS-Vju8X2-WgMjj-sM_sROoUIDxH4aj9MW6",
+      "description": "<p>In recent years the term DevOps has become ubiquitous - you'll find DevOps engineers in most every tech organization. But what does DevOps actually mean, and how does it differ from previously existing System and Network engineering and DBAs? In this episode our own Aimee Knight, who is currently expanding her role into DevOps, answers these questions, and provide further information about it.</p>",
       "file": {
-        "url": "https://traffic.libsyn.com/secure/syntax/Syntax324.mp3?dest-id=532671",
+        "url": "https://media.devchat.tv/js-jabber/JSJ_475_DevOps_for_the_JavaScript_developer.mp3",
         "type": "audio/x-m4a",
-        "duration": 3499
+        "duration": 3979
       }
     },
     {
-      "id": "gatsby-vs-next-js-in-2021",      
+      "id": "gatsby-vs-next-js-in-2021",
       "title": "Gatsby vs Next.js in 2021",
       "members": "Scott Tolinski and Wes Bos",
       "published_at": "2020-12-09",
@@ -92,7 +92,7 @@
       }
     },
     {
-      "id": "building-side-projects-served-with-a-tasty-sidecar",      
+      "id": "building-side-projects-served-with-a-tasty-sidecar",
       "title": "Building side projects - Served with a tasty Sidecar",
       "members": "Ryan Burgess, Jem Young, Shirley Wu",
       "published_at": "2021-04-26",
@@ -105,7 +105,7 @@
       }
     },
     {
-      "id": "the-future-of-the-web-is-HTML-over-the-wire",      
+      "id": "the-future-of-the-web-is-HTML-over-the-wire",
       "title": "The future of the web is HTML over the wire",
       "members": "Matt E. Patterson, Jerod Santo",
       "published_at": "2021-04-05",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": "how-to-scrum",      
+      "id": "how-to-scrum",
       "title": "How to Scrum",
       "members": "Allen Underwood, Michael Outlaw, Joe Zack",
       "published_at": "2021-04-11",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "id": "coding-without-your-hands",      
+      "id": "coding-without-your-hands",
       "title": "Coding without your hands",
       "members": "Josh Comeau, Adam Stacoviak, Jerod Santo",
       "published_at": "2020-12-13",
@@ -144,7 +144,7 @@
       }
     },
     {
-      "id": "secret-screencasting-tips-and-behind-the-scenes-of-tailwind-CSS-2",      
+      "id": "secret-screencasting-tips-and-behind-the-scenes-of-tailwind-CSS-2",
       "title": "Secret Screencasting Tips & Behind the Scenes of Tailwind CSS 2.0",
       "members": "Adam Wathan and Jack McDade",
       "published_at": "2020-08-21",
