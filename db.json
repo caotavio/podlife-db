@@ -136,24 +136,11 @@
       "members": "Josh Comeau, Adam Stacoviak, Jerod Santo",
       "published_at": "2020-12-13",
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGFqjQGRHqfO7XYPQ9FBu0AmlV9B9kv3Ksxd3zwvqeDdS_Kg",
-      "description": "<p>What do you do when you make a living typing on a keyboard, but you can no longer do that for more than a few minutes at a time? Switch careers?! Not Josh Comeau. He decided to learn from others who have come before him and develop his own solution for coding without his hands. Spoiler Alert: he uses weird noises and some fancy eye tracking tech.</p>",
+      "description": "<p>What do you do when you make a living typing on a keyboard, but you can no longer do that for more than a few minutes at a time? Switch careers?! Not Josh Comeau. He decided to learn from others who have come before him and develop his own solution for coding without his hands. Spoiler Alert: he uses weird noises and some fancy eye tracking tech.</p><p>On this episode Josh tells us all about the fascinating system he developed, how it changed his perspective on work & life, and where he’s going from here. Plus we mix in some CSS & JS chat along the way.</p>",
       "file": {
         "url": "https://cdn.changelog.com/uploads/podcast/423/the-changelog-423.mp3",
         "type": "audio/x-m4a",
         "duration": 4691
-      }
-    },
-    {
-      "id": "devOps-for-the-javaScript-developer",      
-      "title": "DevOps for the JavaScript Developer",
-      "members": "Aimee Knight, AJ O'Neal, Dan Shappir",
-      "published_at": "2021-03-16",
-      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzxlsylkvbs2plopS-Vju8X2-WgMjj-sM_sROoUIDxH4aj9MW6",
-      "description": "<p>In recent years the term DevOps has become ubiquitous - you'll find DevOps engineers in most every tech organization. But what does DevOps actually mean, and how does it differ from previously existing System and Network engineering and DBAs? In this episode our own Aimee Knight, who is currently expanding her role into DevOps, answers these questions, and provide further information about it.</p>",
-      "file": {
-        "url": "https://media.devchat.tv/js-jabber/JSJ_475_DevOps_for_the_JavaScript_developer.mp3",
-        "type": "audio/x-m4a",
-        "duration": 3979
       }
     },
     {
@@ -167,4 +154,7 @@
         "url": "https://media.transistor.fm/1298246d/8229b9a1.mp3",
         "type": "audio/x-m4a",
         "duration": 3548
-      }}]}
+      }
+    }
+  ]
+}
